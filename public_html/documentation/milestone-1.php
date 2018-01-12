@@ -12,6 +12,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title>Anna Khamsamran's Personal Website</title>
+		<link rel="stylesheet" href="css/style.css"/>
 	</head>
 	<body>
 		<h1>Anna Khamsamran's Personal Website Project-Brief Overview</h1>
