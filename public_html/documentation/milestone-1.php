@@ -16,7 +16,7 @@
 	</head>
 	<body>
 		<h1>Anna Khamsamran's Personal Website Project-Brief Overview</h1>
-		<p>Due Date: Jan 18, 2018</p>
+		<p>Due Date: Jan 16, 2018</p>
 		<div>
 			<h3>Purpose: </h3>
 			<p>This website will serve as a portfolio of my work.</p>
