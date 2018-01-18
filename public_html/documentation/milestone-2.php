@@ -9,7 +9,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>Anna Khamsamran's Personal Website</title>
+		<title>Anna Khamsamran's Personal Website (Milestone2a)</title>
 		<link rel="stylesheet" href="css/style.css"/>
 	</head>
 	<body>
