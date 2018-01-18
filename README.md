@@ -1,2 +1,2 @@
 # my-pwp-anna-khamsamran
-a personal website portfolio to display my work and help get jobs
+a personal website portfolio to display my capabilities for employers and collaborators
