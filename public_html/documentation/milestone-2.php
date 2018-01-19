@@ -23,7 +23,7 @@
 			<ol>
 				<li>some information about me personally. This section will be short, but friendly and impersonal to add interest and to indicate that I am approachable.</li>
 				<li>Highlights of my resume as relate to art and technology. Technology will be represented by icons of the representative programming languages and programs. (The full resume will be accessible as a link to a pdf document).</li>
-				<li>An image of me</li>
+				<li>A small image of me</li>
 			</ol>
 			<h3>Portfolio:</h3>
 			<a>An animated portfolio of examples of my work (images and artistic renderings of websites or databases with >=5 items. Each item should include a short description.</a>
