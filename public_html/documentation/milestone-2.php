@@ -13,7 +13,14 @@
 		<link rel="stylesheet" href="css/style.css"/>
 	</head>
 	<body>
-		<h1></h1>
+		<h1>PWP Milestone &alpha;</h1>
+		<h2>Content Strategy</h2>
+		<p><em>My one-page site will include these sections:</em></p>
+		<div>
+
+
+		</div>
+
 
 	</body>
 </html>
