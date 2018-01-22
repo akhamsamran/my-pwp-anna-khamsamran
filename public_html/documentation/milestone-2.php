@@ -39,6 +39,10 @@
 			<h3>Desktop:</h3>
 			<img src="images/wireframe2.svg" alt="wireframe design for desktop computer"/>
 		</div>
+		<div>
+			<h3>Ideas:</h3>
+			<img src="images/personalwebsiteideas2.png" alt="a mock-up of an idea for a website"/>
+		</div>
 
 
 	</body>
