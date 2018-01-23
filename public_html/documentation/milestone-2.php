@@ -35,7 +35,7 @@
 		<div>
 			<h2>Wireframes:</h2>
 			<h3>Mobile Design:</h3>
-			<img src="images/wireframe-phone2.svg" alt="wireframe design for mobile"/>
+			<img src="images/wireframe-phone2.svg" alt="wireframe design for mobile phone"/>
 			<h3>Desktop:</h3>
 			<img src="images/wireframe2.svg" alt="wireframe design for desktop computer"/>
 		</div>
