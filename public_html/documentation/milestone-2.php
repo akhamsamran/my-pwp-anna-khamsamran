@@ -1,10 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: anna
- * Date: 1/18/2018
- * Time: 3:55 PM
- */?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
