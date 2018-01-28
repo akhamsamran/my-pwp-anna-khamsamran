@@ -29,6 +29,7 @@
 		<div>
 			<h2>Wireframes:</h2>
 			<h3>Mobile Design:</h3>
+			<p>NOTES: I will make a vertical- friendly version of the background image for the mobile phone.  This can easily be done by trimming the original artwork.  Additionally, as it is all SVG and is simply an assembly of layers, I can pick and choose which elements of the image to add in which places.  In my persona I listed a number of things the potential employer would need to find out about me from this website.  In order to fulfil some these, I have added two sections, called Philosophy and About Me.</p>
 			<img src="images/wireframePhoneScreen.svg" alt="wireframe design for mobile phone"/>
 			<h3>Desktop:</h3>
 			<img src="images/wireframeComputerScreen.svg" alt="wireframe design for desktop computer"/>
