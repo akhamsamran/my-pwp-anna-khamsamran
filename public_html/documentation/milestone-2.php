@@ -29,12 +29,12 @@
 		<div>
 			<h2>Wireframes:</h2>
 			<h3>Mobile Design:</h3>
-			<img src="images/wireframe-phone2.svg" alt="wireframe design for mobile phone"/>
+			<img src="images/wireframePhoneScreen.svg.svg" alt="wireframe design for mobile phone"/>
 			<h3>Desktop:</h3>
-			<img src="images/wireframe2.svg" alt="wireframe design for desktop computer"/>
+			<img src="images/wireframeComputerScreen.svg.svg" alt="wireframe design for desktop computer"/>
 		</div>
 		<div>
-			<h3>Ideas:</h3>
+			<h3>This is a color Mockup, but it has not yet been changed to match new wireframes(just for color ideas)</h3>
 			<img src="images/personalwebsiteideas2.png" alt="a mock-up of an idea for a website"/>
 		</div>
 
