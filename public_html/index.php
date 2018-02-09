@@ -25,24 +25,37 @@
 	<body>
 		<header>
 			<div class="container-flex">
-
-
+				for Navbar, logo, name, sub-header
 			</div>
-
 		</header>
+
+
 		<main>
 			<div class="container-flex">
-
-
+			Tech capabilities
 			</div>
-
+			<div class="container-flex">
+				Creative Philisophy
+			</div>
+			<div class="container-flex">
+				Portfolio
+			</div>
+			<div class="container-flex">
+				About Me
+			</div>
+			<div class="container-flex">
+				Contact Form
+			</div>
+			<div class="container-flex">
+				Contact Info/social media links
+			</div>
 		</main>
+
+
 		<footer>
 			<div class="container-flex">
-
-
+				bottom logo, copyright date,???
 			</div>
-
 		</footer>
 
 
