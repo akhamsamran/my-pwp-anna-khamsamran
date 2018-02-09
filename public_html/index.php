@@ -32,7 +32,7 @@
 
 		<main>
 			<div class="container-flex">
-			Tech capabilities
+			Tech capabilities icons
 			</div>
 			<div class="container-flex">
 				Creative Philisophy
