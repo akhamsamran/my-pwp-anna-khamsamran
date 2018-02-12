@@ -24,37 +24,62 @@
 	</head>
 	<body>
 		<header>
-			<div class="container-flex">
-				for Navbar, logo, name, sub-header
+			<div class="bg-dark text-white text-center py-4">
+				<div class="container">
+					<div class="row">
+						<div class="col">
+							<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+							Anna Khamsamran Data, Design, Development
+						</div>
+					</div>
+				</div>
+
 			</div>
 		</header>
 
 
 		<main>
-			<div class="container-flex">
-			Tech capabilities icons
+			<div class="container-flex text-center">
+				<div class="row">
+					<div class="col-sm-1"></div>
+					<div class="col-sm-4">Tech capabilities icons</div>
+					<div class="col-sm-2"></div>
+					<div class="col-sm-4"></div>
+					<div class="col-sm-1"></div>
+				</div>
+
 			</div>
-			<div class="container-flex">
-				Creative Philisophy
+			<div class="container-flex text-center">
+				<div class="row">
+					<div class="col-sm-7"></div>
+
+					<div class="col-sm-4">Creative Philisophy</div>
+					<div class="col-sm-1"></div>
+				</div>
 			</div>
-			<div class="container-flex">
+			<div class="container-flex text-center">
 				Portfolio
 			</div>
-			<div class="container-flex">
+			<div class="container-flex text-center">
 				About Me
 			</div>
-			<div class="container-flex">
+			<div class="container-flex text-center">
 				Contact Form
 			</div>
-			<div class="container-flex">
+			<div class="container-flex text-center">
 				Contact Info/social media links
 			</div>
 		</main>
 
 
-		<footer>
-			<div class="container-flex">
-				bottom logo, copyright date,???
+		<footer class="bg-dark text-white text-center py-4">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+						Anna Khamsamran 2018
+					</div>
+				</div>
 			</div>
 		</footer>
 
