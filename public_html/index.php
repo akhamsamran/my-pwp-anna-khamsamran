@@ -76,7 +76,7 @@
 			</div>
 		</main>
 
-
+		<!--the div for Footer should align center always, stick to bottom-->
 		<footer class="bg-dark text-white text-center py-4">
 			<div class="container">
 				<div class="row">
