@@ -23,6 +23,7 @@
 
 	</head>
 	<body>
+		<!--Header info - name, subtitle, logo-->
 		<header>
 			<div class="bg-dark text-white text-center py-4">
 				<div class="container">
@@ -37,8 +38,9 @@
 			</div>
 		</header>
 
-
+		<!--the div for the main part of the website-->
 		<main>
+			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
 			<div class="container-flex text-center">
 				<div class="row">
 					<div class="col-sm-1"></div>
@@ -47,25 +49,28 @@
 					<div class="col-sm-4"></div>
 					<div class="col-sm-1"></div>
 				</div>
-
 			</div>
+			<!--the div for Creative Philosophy, should align right-ish when larger than sm, then go to center when sm-->
 			<div class="container-flex text-center">
 				<div class="row">
 					<div class="col-sm-7"></div>
-
 					<div class="col-sm-4">Creative Philisophy</div>
 					<div class="col-sm-1"></div>
 				</div>
 			</div>
+			<!--the div for portfolio, should align center in all sizes-->
 			<div class="container-flex text-center">
 				Portfolio
 			</div>
+			<!--the div for About Me, should align center in all sizes-->
 			<div class="container-flex text-center">
 				About Me
 			</div>
+			<!--the div for Contact Form, should left when larger than sm, then center when sm-->
 			<div class="container-flex text-center">
 				Contact Form
 			</div>
+			<!--the div for Contact Info/social media links, should right when larger than sm, then center when sm-->
 			<div class="container-flex text-center">
 				Contact Info/social media links
 			</div>
