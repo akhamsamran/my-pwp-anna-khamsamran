@@ -1,4 +1,28 @@
 body {
-	background: url(../images/annakhamsamran-full.svg) no-repeat center center fixed;;
+	background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
 	background-size: contain;
 }
+
+/* APPLY BG IMAGE FOR WIDE SCREENS HERE */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	body {
+		background-size: contain;
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	body {
+		background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
+		background-size: contain;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	body {
+		background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
+		background-size: contain;
+	}
+}
+
+
+
