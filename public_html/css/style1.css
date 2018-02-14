@@ -1,6 +1,6 @@
 body {
-	background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
-	background-size: contain;
+	background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
+	background-size: cover;
 }
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
