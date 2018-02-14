@@ -12,14 +12,14 @@ body {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	body {
-		background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
+		background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
 		background-size: contain;
 	}
 }
 
 @media only screen and (min-width: 1200px) {
 	body {
-		background: url(../images/fish-background-mobile.svg) no-repeat center center fixed;
+		background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
 		background-size: contain;
 	}
 }
