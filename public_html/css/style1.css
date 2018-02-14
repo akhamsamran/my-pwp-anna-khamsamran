@@ -1,3 +1,4 @@
-#top {
-	background-image: url(images/annakhamsamran-full-black.svg);
+body {
+	background: url(../images/annakhamsamran-full.svg) no-repeat center center fixed;;
+	background-size: contain;
 }

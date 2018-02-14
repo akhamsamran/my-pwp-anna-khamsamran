@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 		<!--Other and custom CSS-->
-		<link rel="stylesheet" href="css/style.css"/>
+		<link rel="stylesheet" href="css/style1.css"/>
 
 		<!--Optional Javascript links-->
 		<!--link to Bootstrap javascript dependencies-->
@@ -28,9 +28,9 @@
 			<div class="text-center py-4">
 				<div class="container">
 					<div class="row">
-						<div class="col">
-							<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
-							Anna Khamsamran Data, Design, Development
+						<div id="top" class="col">
+							<!--<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+							Anna Khamsamran Data, Design, Development-->
 						</div>
 					</div>
 				</div>
