@@ -1,10 +1,16 @@
+
+
+
+
+
+
+
 body {
 	margin: 20px;
 	padding: 20px;
 	font-family: "Century Gothic";
 	font-size: 1.5em;
 	background: linear-gradient(to bottom, rgba(0, 80, 255, 0.01), rgba(231, 253, 252, 0.54));
-
 }
 /*possibly for later use because it is sooooo cool!:
 	background: radial-gradient(circle, rgba(255, 0, 0, 0), rgb(204, 203, 249));
