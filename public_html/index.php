@@ -29,8 +29,9 @@
 				<div class="container">
 					<div class="row">
 						<div id="top" class="col">
-							<img src="images/annakhamsamran-blue-blue.svg" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
-							Anna Khamsamran Data, Design, Development
+							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo" class="d-inline-block align-top" >
+							<p class="lead">Data, Design, Development
+							</p>
 						</div>
 					</div>
 				</div>
@@ -81,8 +82,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<img src="images/aklogosm.png" alt="logo" width="45" height="30" class="d-inline-block align-top" alt="Anna Khamsamran logo">
-						Anna Khamsamran 2018
+						<img src="images/annakhamsamran-grey-black.svg" alt="logo" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+						2018
 					</div>
 				</div>
 			</div>

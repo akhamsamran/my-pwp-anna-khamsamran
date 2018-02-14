@@ -7,21 +7,21 @@ body {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	body {
 		background: url(../images/fish-background-large.svg) no-repeat center top fixed;
-		background-size: contain;
+		background-size: cover;
 	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	body {
 		background: url(../images/fish-background-large.svg) no-repeat center top fixed;
-		background-size: contain;
+		background-size: cover;
 	}
 }
 
 @media only screen and (min-width: 1200px) {
 	body {
 		background: url(../images/fish-background-large.svg) no-repeat center top fixed;
-		background-size: contain;
+		background-size: cover;
 	}
 }
 
