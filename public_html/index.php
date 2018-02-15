@@ -68,8 +68,8 @@
 			<div class="container text-center">
 				Portfolio
 			</div>
-			<!--the div for About Me, should align center in all sizes-->
-			<div class="container text-center">
+			<!--the div for About Me-->
+			<div class="container">
 				<p>About me:</p>
 				<p>At eighteen, I set off towards Nepal with the intention of volunteering in a women’s shelter for a
 				few months before going to college. On the way there, I stopped in Thailand, went to an island
