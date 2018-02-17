@@ -113,7 +113,19 @@
 			</div>
 			<!--the div for Contact Form, should left when larger than sm, then center when sm-->
 			<div class="container text-center">
-				Contact Form
+				<h3>Email me:</h3>
+				<form>
+					<div class="form-group">
+						<label for="Your Email">Email address</label>
+						<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+						<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+					</div>
+						<div class="form-group">
+							<label for="Message">Message</label>
+							<textarea class="form-control" id="message" rows="3"></textarea>
+						</div>
+					<button type="submit" class="btn btn-primary">Submit</button>
+				</form>
 			</div>
 			<!--the div for Contact Info/social media links, should right when larger than sm, then center when sm-->
 			<div class="container text-center">
