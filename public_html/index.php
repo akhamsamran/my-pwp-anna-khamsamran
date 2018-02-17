@@ -10,6 +10,10 @@
 
 		<!--Other and custom CSS-->
 		<link rel="stylesheet" href="css/style1.css"/>
+		<!--Slick styling for Carousel-->
+		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+		<!--Slick default styling new slick-theme.css-->
+		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
 		<!--Optional Javascript links-->
 		<!--link to Bootstrap javascript dependencies-->
@@ -64,7 +68,11 @@
 			</div>
 			<!--the div for portfolio, should align center in all sizes-->
 			<div class="container text-center">
-				Portfolio
+				<div class="carousel">
+					<div>your content</div>
+					<div>your content</div>
+					<div>your content</div>
+				</div>
 			</div>
 			<!--the div for About Me-->
 			<div class="container">
