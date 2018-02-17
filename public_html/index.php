@@ -11,9 +11,9 @@
 		<!--Other and custom CSS-->
 		<link rel="stylesheet" href="css/style1.css"/>
 		<!--Slick styling for Carousel-->
-		<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
 		<!--Slick default styling new slick-theme.css-->
-		<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+		<link rel="stylesheet" type="text/css" href="slick/slick/slick-theme.css"/>
 
 		<!--Optional Javascript links-->
 		<!--link to Bootstrap javascript dependencies-->
@@ -25,7 +25,7 @@
 		<!--Slick Carousel js-->
 		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script type="text/javascript" src="slick/slick.min.js"></script>
+		<script type="text/javascript" src="slick/slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
 		<script type="text/javascript" src="js/portfolio.js"></script>
 		<title>Anna Khamsamran</title>
@@ -73,15 +73,11 @@
 			</div>
 			<!--the div for portfolio, should align center in all sizes-->
 			<div class="container text-center">
-				<div class="slider-for-carousel">
-					<div>your content</div>
-					<div>your content</div>
-					<div>your content</div>
-					<div class="slider-nav-carousel"
-					<div>your content</div>
-					<div>your content</div>
-				</div>
+				<div class="slider-for-carousel" data-slick-index="0" aria-hidden="false" style="width: 579px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="-1" role="option" aria-describedby="slick-slide120"><h3>1</h3><h3>2</h3><h3>3</h3><h3>4</h3></div>
+
+					<div class="slider-nav-carousel" data-slick-index="2" aria-hidden="false" style="width: 160px;" tabindex="-1" role="option" aria-describedby="slick-slide132"><h3>1</h3><h3>2</h3><h3>3</h3><h3>4</h3></div>
 			</div>
+
 			<!--the div for About Me-->
 			<div class="container">
 				<p>About me:</p>
