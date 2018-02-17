@@ -116,30 +116,41 @@
 				<h3>Email me:</h3>
 				<form>
 					<div class="form-group">
-						<label for="Your Email">Email address</label>
+						<label for="email">Email</label>
 						<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
 						<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 					</div>
 						<div class="form-group">
-							<label for="Message">Message</label>
-							<textarea class="form-control" id="message" rows="3"></textarea>
-						</div>
+						<label for="message">Message</label>
+						<textarea class="form-control" id="message" rows="3"></textarea>
+						  </div>
 					<button type="submit" class="btn btn-primary">Submit</button>
 				</form>
 			</div>
-			<!--the div for Contact Info/social media links, should right when larger than sm, then center when sm-->
-			<div class="container text-center">
-				Contact Info/social media links
+			<!--the div for Contact Info/social media links, should be approx center when wide, then left when sm-->
+			<div class="p-3 mb-2 bg-dark text-white">
+				<div class="row">
+					<div class="col-md-5"></div>
+					<div class="col-md-4">
+						<h3>Contact Info</h3>
+						<p>Email: <a href="mailto:anna@khamsamran.com">anna@khamsamran.com</a></p>
+						<p>GitHub: <a href="https://github.com/akhamsamran">akhamsamran</a></p>
+						<p>LinkedIn: <a href="https://www.linkedin.com/in/anna-khamsamran/">anna-khamsamran</a></p>
+						<p>CafePress: <a href="https://www.cafepress.com/fishindeep">fishindeep</a></p>
+						<p>Twitter: <a href="https://twitter.com/AKhamsamran">AKhamsamran</a>
+						<p>Phone: (575) 779-1619</p>
+					</div>
+					<div class="col-md-3"></div>
+				</div>
 			</div>
 		</main>
 
 		<!--the div for Footer should align center always, stick to bottom-->
-		<footer class="bg-dark text-white text-center py-4">
+		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col">
-						<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo">
-						2018
+					<div class="col text-center border-dark rounded">
+						<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/>  2018
 					</div>
 				</div>
 			</div>
