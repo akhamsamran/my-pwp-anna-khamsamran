@@ -23,8 +23,6 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 		<!--Slick Carousel js-->
-		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 		<script type="text/javascript" src="slick/slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
 		<script type="text/javascript" src="js/portfolio.js"></script>
@@ -73,9 +71,20 @@
 			</div>
 			<!--the div for portfolio, should align center in all sizes-->
 			<div class="container text-center">
-				<div class="slider-for-carousel" data-slick-index="0" aria-hidden="false" style="width: 579px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" tabindex="-1" role="option" aria-describedby="slick-slide120"><h3>1</h3><h3>2</h3><h3>3</h3><h3>4</h3></div>
-
-					<div class="slider-nav-carousel" data-slick-index="2" aria-hidden="false" style="width: 160px;" tabindex="-1" role="option" aria-describedby="slick-slide132"><h3>1</h3><h3>2</h3><h3>3</h3><h3>4</h3></div>
+				<div class="slider slider-for">
+					<div><h3>1</h3></div>
+					<div><h3>2</h3></div>
+					<div><h3>3</h3></div>
+					<div><h3>4</h3></div>
+					<div><h3>5</h3></div>
+				</div>
+				<div class="slider slider-nav">
+					<div><h3>1</h3></div>
+					<div><h3>2</h3></div>
+					<div><h3>3</h3></div>
+					<div><h3>4</h3></div>
+					<div><h3>5</h3></div>
+				</div>
 			</div>
 
 			<!--the div for About Me-->
@@ -117,7 +126,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<img src="images/annakhamsamran-grey-black.svg" alt="logo" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+						<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo">
 						2018
 					</div>
 				</div>
