@@ -6,7 +6,7 @@ body {
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	body {
-		background: url(../images/fish-background-large.svg) no-repeat center top fixed;
+		background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 }

@@ -42,13 +42,11 @@
 		<!--the div for the main part of the website-->
 		<main>
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
-			<div class="container text-center">
+			<div class="container text-left">
 				<div class="row">
-					<div class="col-sm-1"></div>
-					<div class="col-sm-4">Tech capabilities icons</div>
-					<div class="col-sm-2"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-1"></div>
+					<div class="col-sm-4 mt-5"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
+					<div class="col-8"></div>
+
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger than sm, then go to center when sm-->
