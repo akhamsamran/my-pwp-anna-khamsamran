@@ -26,6 +26,8 @@
 		<script type="text/javascript" src="slick/slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
 		<script type="text/javascript" src="js/portfolio.js"></script>
+		<!--Font Awesome CDN-->
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 		<title>Anna Khamsamran</title>
 
 	</head>
