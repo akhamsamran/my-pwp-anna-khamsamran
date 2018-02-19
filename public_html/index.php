@@ -129,33 +129,37 @@
 					<button type="submit" class="btn btn-primary">Submit</button>
 				</form>
 			</div>
-			<!--the div for Contact Info/social media links, should be approx center when wide, then left when sm-->
-			<div class="p-3 mb-2 bg-dark text-white">
-				<div class="row">
-					<div class="col-md-5"></div>
-					<div class="col-md-4">
-						<h3>Contact Info</h3>
-						<p>Email: <a href="mailto:anna@khamsamran.com">anna@khamsamran.com</a></p>
-						<p>GitHub: <a href="https://github.com/akhamsamran">akhamsamran</a></p>
-						<p>LinkedIn: <a href="https://www.linkedin.com/in/anna-khamsamran/">anna-khamsamran</a></p>
-						<p>CafePress: <a href="https://www.cafepress.com/fishindeep">fishindeep</a></p>
-						<p>Twitter: <a href="https://twitter.com/AKhamsamran">AKhamsamran</a>
-						<p>Phone: (575) 779-1619</p>
-					</div>
-					<div class="col-md-3"></div>
-				</div>
-			</div>
-		</main>
-
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
-			<div class="container">
+			<div class="container-fluid p-3 mb-2 bg-dark text-white rounded text-center">
 				<div class="row">
-					<div class="col text-center border-dark rounded">
-						<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/>  2018
+					<div class="col-sm-2">
+						<a href="mailto:anna@khamsamran.com"><i class="far fa-envelope fa-2x"></i></a>
 					</div>
+					<div class="col-sm-2">
+						<a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
+					</div>
+					<div class="col-sm-2">
+						<a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
+					</div>
+
+					<div class="col-sm-2">
+						<a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
+					</div>
+					<div class="col-sm-2">
+						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
+					</div>
+					<div class="col-sm-2">
+						<i class="fas fa-phone fa-2x"></i>
+						<p>575-779-1619</p>
+					</div>
+						<div class="row">
+							<div class="col"><img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/> 2018
+							</div>
+						</div>
 				</div>
-			</div>
+				</div>
+
 		</footer>
 
 
