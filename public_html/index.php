@@ -71,22 +71,65 @@
 					<div class="col-sm-1"></div>
 				</div>
 			</div>
-			<!--the div for portfolio, should align center in all sizes-->
+			<!--the div for portfolio carousel, should align center in all sizes-->
 			<div class="container text-center">
-				<div class="slider slider-for">
-					<div><h3>1</h3></div>
-					<div><h3>2</h3></div>
-					<div><h3>3</h3></div>
-					<div><h3>4</h3></div>
-					<div><h3>5</h3></div>
+				<!--Carousel Wrapper-->
+				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+					<!--Indicators-->
+					<ol class="carousel-indicators">
+						<li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+						<li data-target="#carousel-example-2" data-slide-to="1"></li>
+						<li data-target="#carousel-example-2" data-slide-to="2"></li>
+					</ol>
+					<!--/.Indicators-->
+					<!--Slides-->
+					<div class="carousel-inner" role="listbox">
+						<div class="carousel-item active">
+							<div class="view hm-black-light">
+								<img class="d-block w-100" src="images/snorkeler-background.svg" alt="First slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive">Light mask</h3>
+								<p>First text</p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-strong">
+								<img class="d-block w-100" src="images/snorkeler-blue-fish.svg" alt="Second slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive">Strong mask</h3>
+								<p>Secondary text</p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/snorkeler-white-fish.svg" alt="Third slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive">Slight mask</h3>
+								<p>Third text</p>
+							</div>
+						</div>
+					</div>
+					<!--/.Slides-->
+					<!--Controls-->
+					<a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+					<!--/.Controls-->
 				</div>
-				<div class="slider slider-nav">
-					<div><h3>1</h3></div>
-					<div><h3>2</h3></div>
-					<div><h3>3</h3></div>
-					<div><h3>4</h3></div>
-					<div><h3>5</h3></div>
-				</div>
+				<!--/.Carousel Wrapper-->
 			</div>
 
 			<!--the div for About Me-->
@@ -154,7 +197,8 @@
 						<p>575-779-1619</p>
 					</div>
 						<div class="row">
-							<div class="col"><img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/> 2018
+							<div class="col text-center border-dark rounded">
+								<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/>  2018
 							</div>
 						</div>
 				</div>
