@@ -187,33 +187,32 @@
 			</div>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
-			<div class="container-fluid p-3 mb-2 bg-dark text-white rounded text-center">
+			<div class="container-fluid p-3 mb-2 bg-dark text-primary rounded text-left">
 				<div class="row">
-					<div class="col-sm-2">
+					<div class="col-2 col-md-2 text-center">
 						<a href="mailto:anna@khamsamran.com"><i class="far fa-envelope fa-2x"></i></a>
 					</div>
-					<div class="col-sm-2">
+					<div class="col-2 col-md-2 text-center">
 						<a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
 					</div>
-					<div class="col-sm-2">
+					<div class="col-2 col-md-2 text-center">
 						<a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 					</div>
 
-					<div class="col-sm-2">
+					<div class="col-2 col-md-2 text-center">
 						<a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
 					</div>
-					<div class="col-sm-2">
+					<div class="col-2 col-md-2 text-center">
 						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
 					</div>
-					<div class="col-sm-2">
-						<i class="fas fa-phone fa-2x"></i>
+					<div class="col-md-2">
+						<i class="fas fa-phone fa-2x "></i>
 						<p>575-779-1619</p>
 					</div>
-						<div class="row">
-							<div class="col text-center border-dark rounded">
-								<img src="images/annakhamsamran-grey-black.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo"/>  2018
-							</div>
-						</div>
+
+				</div>
+				<div class="container text-center"><img src="images/annakhamsamran-grey-black.svg" alt="Anna Khamsamran logo"/>  2018
+
 				</div>
 				</div>
 
