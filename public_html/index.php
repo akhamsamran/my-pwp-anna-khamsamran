@@ -187,9 +187,11 @@
 					<button type="submit" class="btn btn-primary">Submit</button>
 				</form>
 			</div>
+		</main>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
-			<div class="container-fluid p-3 mb-2 bg-dark text-primary rounded text-center">
+			<div class="base-bar">
+			<div class="container-fluid p-3 mb-2 text-primary rounded text-center">
 				<div class="row">
 					<div class="col-sm-2 text-center">
 						<a href="mailto:anna@khamsamran.com"><i class="far fa-envelope fa-2x"></i></a>
@@ -213,6 +215,8 @@
 				<div class="container text-center"><img src="images/annakhamsamran-grey-black.svg" alt="Anna Khamsamran logo"/>  2018
 				</div>
 				</div>
+			</div>
+
 
 
 		</footer>
