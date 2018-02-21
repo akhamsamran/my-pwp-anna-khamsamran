@@ -1,35 +1,34 @@
-main {
+body {
 	background: url(../images/fish-background-mobile.svg) no-repeat center top scroll;
 	background-size: cover;
 }
-.base-bar {
-	background: url(../images/fishcut-white.svg) no-repeat center top scroll;
-	background-size: cover;
-}
-
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	main {
+	body {
 		background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
-
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	main {
+	body {
 		background: url(../images/fish-background-large.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
-
 }
 
 @media only screen and (min-width: 1200px) {
-	main {
+	body {
 		background: url(../images/fish-background-large.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
-
 }
+
+#hero
+.layer{“data-type” => “parallax”}
+.layer{“data-type” => “parallax”}
+.layer{“data-type” => “parallax”}
+.layer{“data-type” => “parallax”}
+.layer{“data-type” => “parallax”}
 
