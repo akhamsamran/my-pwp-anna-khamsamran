@@ -139,6 +139,17 @@
 								<p></p>
 							</div>
 						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/tractor-card.svg" alt="Fourth slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
 
 						<div class="carousel-item">
 							<!--Mask color-->
