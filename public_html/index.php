@@ -22,6 +22,18 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+		<!-- JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
 		<!--Slick Carousel js-->
 		<script type="text/javascript" src="slick/slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
@@ -244,15 +256,10 @@
 			</div>
 		</main>
 		-->
-			<!--
-Begin Sample Contact Form
-
-Create your own contact form.
-Do not copy and paste this one.
--->
-			<form id="rochelles-demo-form" action="php/mailer.php" method="post">
+			<!--Contact Form-->
+			<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group">
-					<label for="contactDemoName">Name <span class="text-danger">*</span></label>
+					<label for="contactDemoName">Your Name <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
@@ -262,7 +269,7 @@ Do not copy and paste this one.
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactDemoEmail">Email <span class="text-danger">*</span></label>
+					<label for="contactDemoEmail">Your Email <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
@@ -288,18 +295,18 @@ Do not copy and paste this one.
 							<span class="input-group-text"></span>
 							<i class="fa fa-comment" aria-hidden="true"></i>
 						</div>
-						<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage" placeholder="I <3 CopyPasta :D~ (2000 characters max)"></textarea>
+						<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage" placeholder="(2000 characters max)"></textarea>
 					</div>
 				</div>
 
 				<!-- reCAPTCHA -->
-				<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+				<div class="g-recaptcha" data-sitekey="6Ldn_UcUAAAAAB9VXKqeP6ZR14GIW9-TJF3bvZtB"></div>
 
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
 
-			<!--empty area for form error/success output-->
+			<!--empty area (form error/success output)-->
 			<div class="row">
 				<div class="col-xs-12">
 					<div id="output-area"></div>
