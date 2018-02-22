@@ -2,10 +2,11 @@ main {
 	background: url(../images/fish-background-mobile.svg) no-repeat center top scroll;
 	background-size: cover;
 }
-footer {
-	background: url(../images/fishcut-black.svg) no-repeat center top scroll;
+.base-bar {
+	background: url(../images/fishcut-white.svg) no-repeat center top scroll;
 	background-size: cover;
 }
+
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -13,10 +14,7 @@ footer {
 		background: url(../images/fish-background-mobile.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
-	footer {
-		background: url(../images/fishcut-black.svg) no-repeat center top scroll;
-		background-size: cover;
-	}
+
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -24,10 +22,7 @@ footer {
 		background: url(../images/fish-background-large.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
-	footer {
-		background: url(../images/fishcut-black.svg) no-repeat center top scroll;
-		background-size: cover;
-	}
+
 }
 
 @media only screen and (min-width: 1200px) {
@@ -35,9 +30,6 @@ footer {
 		background: url(../images/fish-background-large.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
-	footer {
-		background: url(../images/fishcut-black.svg) no-repeat center top scroll;
-		background-size: cover;
-	}
+
 }
 

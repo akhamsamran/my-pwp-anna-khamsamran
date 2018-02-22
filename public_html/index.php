@@ -77,45 +77,100 @@
 			<div class="container text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
-					<!--Indicators-->
+					<!--Indicators
 					<ol class="carousel-indicators">
 						<li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
 						<li data-target="#carousel-example-2" data-slide-to="1"></li>
 						<li data-target="#carousel-example-2" data-slide-to="2"></li>
-					</ol>
+					</ol>-->
 					<!--/.Indicators-->
 					<!--Slides-->
 					<div class="carousel-inner" role="listbox">
 						<div class="carousel-item active">
-							<div class="view hm-black-light">
-								<img class="d-block w-100" src="images/snorkeler-background.svg" alt="First slide">
+							<div class="view hm-black-strong">
+								<img class="d-block w-100" src="images/webdev.svg" alt="First slide">
 								<div class="mask"></div>
 							</div>
 							<div class="carousel-caption">
-								<h3 class="h3-responsive">Light mask</h3>
-								<p>First text</p>
+								<h3 class="h3-responsive"></h3>
+								<p></p>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<!--Mask color-->
-							<div class="view hm-black-strong">
-								<img class="d-block w-100" src="images/snorkeler-blue-fish.svg" alt="Second slide">
-								<div class="mask"></div>
+							<div class="view hm-black-light">
+								<img class="d-block w-100" src="images/database.svg" alt="Second slide">
 							</div>
 							<div class="carousel-caption">
-								<h3 class="h3-responsive">Strong mask</h3>
-								<p>Secondary text</p>
+								<h3 class="h3-responsive"></h3>
+								<p></p>
 							</div>
 						</div>
 						<div class="carousel-item">
 							<!--Mask color-->
 							<div class="view hm-black-slight">
-								<img class="d-block w-100" src="images/snorkeler-white-fish.svg" alt="Third slide">
+								<img class="d-block w-100" src="images/portraits.svg" alt="Third slide">
 								<div class="mask"></div>
 							</div>
 							<div class="carousel-caption">
-								<h3 class="h3-responsive">Slight mask</h3>
-								<p>Third text</p>
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/pitbull.svg" alt="Fourth slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/tractor-card.svg" alt="Fifth slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
+
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/lizards.svg" alt="Sixth slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/fishbanner.svg" alt="Seventh slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
+							</div>
+						</div>
+						<div class="carousel-item">
+							<!--Mask color-->
+							<div class="view hm-black-slight">
+								<img class="d-block w-100" src="images/bluefin.svg" alt="Eighth slide">
+								<div class="mask"></div>
+							</div>
+							<div class="carousel-caption">
+								<h3 class="h3-responsive"></h3>
+								<p></p>
 							</div>
 						</div>
 					</div>
