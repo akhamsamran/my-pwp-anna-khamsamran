@@ -3,28 +3,28 @@ body {
 	background-size: cover;
 }
 header {
-	background: url(../images/sky.svg) no-repeat center top scroll;
+	background: url(../images/bg-surface.svg) no-repeat center top scroll;
 	background-size: cover;
 }
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	body {
-		background: url(../images/snorkeler-background.svg) no-repeat center top fixed;
+		background: url(../images/bg-scene.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	body {
-		background: url(../images/snorkeler-background.svg) no-repeat center top fixed;
+		background: url(../images/bg-scene.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 }
 
 @media only screen and (min-width: 1200px) {
 	body {
-		background: url(../images/snorkeler-background.svg) no-repeat center top fixed;
+		background: url(../images/bg-scene.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 }
