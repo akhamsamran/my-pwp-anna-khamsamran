@@ -259,43 +259,43 @@
 			<!--Contact Form-->
 			<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group">
-					<label for="contactDemoName">Your Name <span class="text-danger">*</span></label>
+					<label for="name">Your Name <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</div>
-						<input type="text" class="form-control" id="contactDemoName" name="contactDemoName" placeholder="Name">
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactDemoEmail">Your Email <span class="text-danger">*</span></label>
+					<label for="email">Your Email <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
-						<input type="email" class="form-control" id="contactDemoEmail" name="contactDemoEmail" placeholder="Email">
+						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactDemoSubject">Subject</label>
+					<label for="subject">Subject</label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 							<i class="fa fa-pencil" aria-hidden="true"></i>
 						</div>
-						<input type="text" class="form-control" id="contactDemoSubject" name="contactDemoSubject" placeholder="Subject">
+						<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="contactDemoMessage">Message <span class="text-danger">*</span></label>
+					<label for="message">Message <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 							<i class="fa fa-comment" aria-hidden="true"></i>
 						</div>
-						<textarea class="form-control" rows="5" id="contactDemoMessage" name="contactDemoMessage" placeholder="(2000 characters max)"></textarea>
+						<textarea class="form-control" rows="5" id="message" name="message" placeholder="(2000 characters max)"></textarea>
 					</div>
 				</div>
 
