@@ -140,17 +140,6 @@
 								<p></p>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<!--Mask color-->
-							<div class="view hm-black-slight">
-								<img class="d-block w-100" src="images/tractor-card.svg" alt="Fifth slide">
-								<div class="mask"></div>
-							</div>
-							<div class="carousel-caption">
-								<h3 class="h3-responsive"></h3>
-								<p></p>
-							</div>
-						</div>
 
 						<div class="carousel-item">
 							<!--Mask color-->
@@ -257,13 +246,19 @@
 		</main>
 		-->
 			<!--Contact Form-->
+			<div class="container p-1">
+				<div class="row">
+					<div class="col-sm-6"></div>
+					<div class="col-sm-6 text-center">
+				<h3>Contact Me:</h3>
 			<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group">
 					<label for="name">Your Name <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
-							<span class="input-group-text"></span>
-							<i class="fa fa-user" aria-hidden="true"></i>
+							<span class="input-group-text">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</span>
 						</div>
 						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
@@ -272,8 +267,9 @@
 					<label for="email">Your Email <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
-							<span class="input-group-text"></span>
-							<i class="fa fa-envelope" aria-hidden="true"></i>
+							<span class="input-group-text">
+								<i class="fa fa-envelope" aria-hidden="true"></i>
+							</span>
 						</div>
 						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 					</div>
@@ -282,8 +278,9 @@
 					<label for="subject">Subject</label>
 					<div class="input-group">
 						<div class="input-group-prepend">
-							<span class="input-group-text"></span>
-							<i class="fa fa-pencil" aria-hidden="true"></i>
+							<span class="input-group-text">
+								<i class="fas fa-pencil-alt" aria-hidden="true"></i>
+							</span>
 						</div>
 						<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 					</div>
@@ -292,8 +289,11 @@
 					<label for="message">Message <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
-							<span class="input-group-text"></span>
-							<i class="fa fa-comment" aria-hidden="true"></i>
+
+							<span class="input-group-text">
+								<i class="fa fa-comment" aria-hidden="true"></i>
+							</span>
+
 						</div>
 						<textarea class="form-control" rows="5" id="message" name="message" placeholder="(2000 characters max)"></textarea>
 					</div>
@@ -310,6 +310,10 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div id="output-area"></div>
+				</div>
+			</div>
+
+					</div>
 				</div>
 			</div>
 		<!--the div for Footer should align center always, stick to bottom-->
