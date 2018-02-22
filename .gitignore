@@ -4,3 +4,4 @@
 .sass-cache
 node_modules
 .saas-cachenode_modules
+**/php/mail-config.php
