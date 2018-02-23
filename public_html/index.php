@@ -323,20 +323,21 @@
 			</div>
 
 					</div>
-					<div class="col-md-6"></div>
+					<div class="col-md-6">
+						<img src="images/jack.svg" alt="jackfish"/>
+					</div>
 				</div>
 			</div>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
 			<div class="base-bar">
-			<div class="container-fluid p-3 mb-2 bg-secondary text-primary rounded text-center">
+			<div class="container-fluid p-3 mt-2 bg-light text-primary rounded text-center">
 				<div class="row">
 					<div class="col-md-6 text-center">
 						<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>  2018
 					</div>
 					<div class="col-md-6 text-center">
-						<a href="mailto:anna@khamsamran.com"><i class="far fa-envelope fa-2x"></i></a>
-						&nbsp <a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
 						&nbsp <a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 						&nbsp <a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
 						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
