@@ -47,12 +47,10 @@
 		<!--Header info - name, subtitle, logo-->
 		<header>
 
-				<div class="container py-4 text-center">
+				<div class="container pt-4 pb-5 text-right">
 					<div class="row">
-						<div class="col">
-							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo" class="d-inline-block align-top" >
-							<p class="lead">Data, Design, Development
-							</p>
+						<div class="col d-inline-block align-top pb-4">
+							<span><img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"> Data, Design, Development</span>
 						</div>
 					</div>
 				</div>
@@ -85,7 +83,7 @@
 				</div>
 			</div>
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="container text-center">
+			<div class="container-fluid bg-light text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 					<!--Indicators
@@ -323,8 +321,8 @@
 			</div>
 
 					</div>
-					<div class="col-md-6">
-						<img src="images/jack.svg" alt="jackfish"/>
+					<div class="col-md-6 text-center pt-5">
+						<img src="images/snorkeler-white-fish.svg" alt="jackfish"/>
 					</div>
 				</div>
 			</div>
@@ -334,14 +332,14 @@
 			<div class="container-fluid p-3 mt-2 bg-light text-primary rounded text-center">
 				<div class="row">
 					<div class="col-md-6 text-center">
-						<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>  2018
+						<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/> 2018
 					</div>
 					<div class="col-md-6 text-center">
 <a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
 						&nbsp <a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 						&nbsp <a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
 						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
-						<span><i class="fas fa-phone fa-2x "></i> (575)779-1619</span>
+						&nbsp<span><i class="fas fa-phone fa-1x "></i>(575)779-1619</span>
 					</div>
 					</div>
 				</div>
