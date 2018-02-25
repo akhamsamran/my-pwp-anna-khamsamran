@@ -65,7 +65,7 @@
 
 
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
-			<div class="container text-left mt-5 mb-3">
+			<div class="container text-left pt-4 mt-5 mb-5">
 				<div class="row">
 					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
 					<div class="col-8"></div>
@@ -77,12 +77,12 @@
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
-						<h4>Data~Design~Development</h4>
+						<h5>Data~Design~Development</h5>
 						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and design.</p>
 					</div>
 			</div>
 			</div>
-			<div class="container text-left mb-5">
+			<div class="container text-left mt-3 mb-5">
 				<div class="row">
 					<div class="col-md-4"></div>
 					<div class="col-md-8"><img src="images/jack-r.svg" alt="jackfish" >
@@ -207,7 +207,7 @@
 			</div>
 
 			<!--the div for About Me-->
-			<div class="container text-left">
+			<div class="container text-left mt-5">
 				<div class="row">
 					<h3>About me:</h3>
 				</div>
@@ -300,7 +300,12 @@
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
+				<!--some fish:-->
+				</div>
+					<div class="col-md-6 text-center pt-5">
+						<img src="images/jack-wireframe2.svg" alt="jackfish"/>
 
+				</div>
 			<!--empty area (form error/success output)-->
 			<div class="row">
 				<div class="col-xs-12">
@@ -308,17 +313,10 @@
 				</div>
 			</div>
 
-					</div>
-					<div class="col-md-5 text-left pt-5">
-						<img src="images/snorkeler-white-fish.svg" alt="jackfish"/>
-					</div>
-					<div class="col-md-1">
-					</div>
-				</div>
+			</div>
 			</div>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
-			<div class="base-bar">
 			<div class="container-fluid p-3 mt-2 bg-light text-primary rounded text-center">
 				<div class="row">
 					<div class="col-md-6 text-center">
@@ -328,12 +326,11 @@
 <a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
 						&nbsp <a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 						&nbsp <a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
-						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
+						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart a-2x"></i></a>
 						&nbsp<span><i class="fas fa-phone fa-1x "></i>(575)779-1619</span>
 					</div>
 					</div>
 				</div>
-			</div>
 		</footer>
 
 
