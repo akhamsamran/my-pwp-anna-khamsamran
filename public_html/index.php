@@ -66,7 +66,6 @@
 				<div class="row">
 					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
 					<div class="col-8"></div>
-
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
@@ -77,7 +76,7 @@
 						<h5>Data~Design~Development</h5>
 						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and design.</p>
 					</div>
-			</div>
+				</div>
 			</div>
 			<div class="container text-left mt-3 mb-5">
 				<div class="row">
@@ -88,7 +87,7 @@
 			</div>
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="container-fluid bg-light mt-5 text-center">
+			<div class="container-fluid bg-light  mt-5 text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 					<!--Indicators

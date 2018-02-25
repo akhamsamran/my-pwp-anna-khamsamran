@@ -26,7 +26,7 @@ body {
 
 @media only screen and (min-width: 1200px) {
 	body {
-		background: url(../images/../images/bg-scene-b3.svg) no-repeat center top fixed;
+		background: url(../images/bg-scene-b3.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 	header {
