@@ -49,14 +49,11 @@
 
 				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
-						<div class="col-3">
-						</div>
-						<div class="col-6 d-inline-block align-top pb-4">
+						<div class="col-12 d-inline-block align-top pb-4">
 							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo">
 						</div>
-						<div class="col-3">
-				</div>
 					</div>
+				</div>
 
 		</header>
 
@@ -302,8 +299,8 @@
 			</form>
 				<!--some fish:-->
 				</div>
-					<div class="col-md-6 text-center pt-5">
-						<img src="images/jack-wireframe2.svg" alt="jackfish"/>
+					<div class="col-md-6 text-right pt-5 mt-5">
+						<img src="images/jack-wireframe2.svg" class="img-fluid" alt="jackfish"/>
 
 				</div>
 			<!--empty area (form error/success output)-->
@@ -315,6 +312,7 @@
 
 			</div>
 			</div>
+		</main>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
 			<div class="container-fluid p-3 mt-2 bg-light text-primary rounded text-center">
