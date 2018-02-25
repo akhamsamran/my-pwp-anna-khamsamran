@@ -2,29 +2,23 @@ body {
 	background: url(../images/bg-scene-tall.svg) no-repeat center top fixed;
 	background-size: cover;
 }
-header{
-	background: url(../images/topbanner-sm.svg) no-repeat center top fixed;
-	background-size: cover;
-}
+
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	body {
 		background: url(../images/bg-scene-tall.svg) no-repeat center top fixed;
 		background-size: cover;
+		}
 	}
-	header{
-		background: url(../images/bg-surface.svg) no-repeat center top fixed;
-		background-size: cover;
-	}
-}
+
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	body {
 		background: url(../images/bg-scene-b.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
-	header{
+	header {
 		background: url(../images/bg-surface.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
@@ -35,7 +29,7 @@ header{
 		background: url(../images/bg-scene-b.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
-	header{
+	header {
 		background: url(../images/bg-surface.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
