@@ -65,7 +65,7 @@
 
 
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
-			<div class="container text-left">
+			<div class="container text-left mt-5 mb-3">
 				<div class="row">
 					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
 					<div class="col-8"></div>
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
-			<div class="container text-center lead mb-5">
+			<div class="container text-center lead mb-3">
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
