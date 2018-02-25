@@ -301,8 +301,10 @@
 			</div>
 
 					</div>
-					<div class="col-md-6 text-center pt-5">
+					<div class="col-md-5 text-left pt-5">
 						<img src="images/snorkeler-white-fish.svg" alt="jackfish"/>
+					</div>
+					<div class="col-md-1">
 					</div>
 				</div>
 			</div>
