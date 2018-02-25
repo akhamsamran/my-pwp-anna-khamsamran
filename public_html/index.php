@@ -50,7 +50,7 @@
 				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
 						<div class="col-12 d-inline-block align-top pb-4">
-							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo">
+							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>
 						</div>
 					</div>
 				</div>
@@ -301,7 +301,7 @@
 				</div>
 					<div class="col-md-6 text-right pt-5 mt-5">
 						<img src="images/jack-wireframe2.svg" class="img-fluid" alt="jackfish"/>
-
+					</div>
 				</div>
 			<!--empty area (form error/success output)-->
 			<div class="row">
@@ -310,7 +310,7 @@
 				</div>
 			</div>
 
-			</div>
+
 			</div>
 		</main>
 		<!--the div for Footer should align center always, stick to bottom-->
