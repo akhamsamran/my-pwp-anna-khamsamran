@@ -72,10 +72,10 @@
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
-			<div class="container mb-4 mt-5 text-center font-weight-bold lead">
+			<div class="container mb-4 mt-5 text-center">
 				<div class="row">
-					<div class="col-sm-8"></div>
-					<div class="col-sm-4">
+					<div class="col-md-8"></div>
+					<div class="col-md-4">
 						<h3>Philosophy:</h3>
 						<p>Easy access to well organized information  improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and sound design.</p>
 					</div>
@@ -204,13 +204,13 @@
 					<h3>About me:</h3>
 				</div>
 				<div class="row">
-					<div class="col-sm-3 m-1 p-3 bg-light">
+					<div class="col-sm-4">
 						<p>At eighteen, I set off towards Nepal with the intention of volunteering in a women’s shelter for a few months before going to college. On the way there, I stopped in Thailand, went to an island, got caught in a typhoon, and missed my flight onwards. I became a scuba diving instructor and ended up living in Thailand for the next eighteen years.</p>
 					</div>
-					<div class="col-sm-3 m-1 p-3 bg-light">
+					<div class="col-sm-4">
 						<p>Upon my return to the US, I worked for a small non-profit, degree-granting college supporting the apprenticeship model of midwifery education. I have continuously sought to improve my skills and capabilities.  I designed set up systems and tools that greatly improved the business, and was able to rise to the position of Chief Operations Officer </p>
 					</div>
-					<div class="col-sm-3 m-1 p-3 bg-light">
+					<div class="col-sm-4">
 						<p>Working in digital development provides me with the exciting opportunity to be creative and pursue my passion.  Organizing and designing databases. It is enormously satisfying to set up systems that work elegantly and allow streamlined function. The adventure has just begun! </p>
 					</div>
 				</div>
