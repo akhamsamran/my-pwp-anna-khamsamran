@@ -1,5 +1,5 @@
 body {
-	background: url(../images/bg-scene-tall.svg) no-repeat center top scroll;
+	background: url(../images/bg-scene-mobile.svg) no-repeat center top scroll;
 	background-size: cover;
 }
 
@@ -7,7 +7,7 @@ body {
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	body {
-		background: url(../images/bg-scene-tall.svg) no-repeat center top scroll;
+		background: url(../images/bg-scene-mobile.svg) no-repeat center top scroll;
 		background-size: cover;
 		}
 	}
