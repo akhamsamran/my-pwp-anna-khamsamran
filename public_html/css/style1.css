@@ -15,18 +15,18 @@ body {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	body {
-		background: url(../images/bg-scene-b1.svg) no-repeat center top fixed;
+		background: url(../images/bg-scene-b2.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 	header {
-		background: url(../images/bg-scene-mobile.svg) no-repeat center top scroll;
+		background: url(../images/bg-surface.svg) no-repeat center top scroll;
 		background-size: cover;
 	}
 }
 
 @media only screen and (min-width: 1200px) {
 	body {
-		background: url(../images/../images/bg-scene-b1.svg) no-repeat center top fixed;
+		background: url(../images/../images/bg-scene-b2.svg) no-repeat center top fixed;
 		background-size: cover;
 	}
 	header {

@@ -47,12 +47,14 @@
 		<!--Header info - name, subtitle, logo-->
 		<header>
 
-				<div class="container pt-4 pb-5 text-right">
+				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
-						<div class="col-8 d-inline-block align-top pb-4">
+						<div class="col-3">
+						</div>
+						<div class="col-6 d-inline-block align-top pb-4">
 							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo">
 						</div>
-						<div class="col-4 d-inline-block text-right">
+						<div class="col-3">
 				</div>
 					</div>
 
@@ -65,24 +67,31 @@
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
 			<div class="container text-left">
 				<div class="row">
-					<div class="col-sm-4 mt-5"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
+					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
 					<div class="col-8"></div>
 
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
-			<div class="container mb-4 mt-5 text-center">
+			<div class="container text-center lead mb-5">
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
-						<h3>Philosophy:</h3>
-						<p>Easy access to well organized information  improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and sound design.</p>
+						<h4>Data~Design~Development</h4>
+						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and sound design.</p>
 					</div>
 			</div>
 			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+					<div class="col-md-8"><img src="images/jack-r.svg" alt="jackfish" >
+					</div>
+				</div>
+			</div>
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="container-fluid bg-light text-center">
+			<div class="container-fluid bg-light mt-5 text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 					<!--Indicators
