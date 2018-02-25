@@ -53,7 +53,6 @@
 							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo">
 						</div>
 						<div class="col-4 d-inline-block text-right">
-							<img src="images/data-design-dev.svg" alt="data, design, development">
 				</div>
 					</div>
 
