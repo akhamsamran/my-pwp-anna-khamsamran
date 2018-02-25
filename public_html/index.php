@@ -73,16 +73,16 @@
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
-			<div class="container text-center lead mb-3">
+			<div class="container text-center mb-5">
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
 						<h4>Data~Design~Development</h4>
-						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and sound design.</p>
+						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and design.</p>
 					</div>
 			</div>
 			</div>
-			<div class="container text-left">
+			<div class="container text-left mb-5">
 				<div class="row">
 					<div class="col-md-4"></div>
 					<div class="col-md-8"><img src="images/jack-r.svg" alt="jackfish" >
