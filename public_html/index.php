@@ -82,9 +82,9 @@
 					</div>
 			</div>
 			</div>
-			<div class="container">
+			<div class="container text-left">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-4"></div>
 					<div class="col-md-8"><img src="images/jack-r.svg" alt="jackfish" >
 					</div>
 				</div>
