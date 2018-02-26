@@ -87,7 +87,7 @@
 			</div>
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="container-fluid bg-secondary text-dark mt-5 text-center">
+			<div class="container-fluid bg-white text-dark mt-5 text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 					<!--Indicators
