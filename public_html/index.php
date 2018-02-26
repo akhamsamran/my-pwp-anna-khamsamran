@@ -10,6 +10,8 @@
 
 		<!--Other and custom CSS-->
 		<link rel="stylesheet" href="css/style1.css"/>
+		<!--slick from jsDeliver.cdn-->
+		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
 		<!--Slick styling for Carousel-->
 		<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
 		<!--Slick default styling new slick-theme.css-->
@@ -35,7 +37,9 @@
 
 
 		<!--Slick Carousel js-->
-		<script type="text/javascript" src="slick/slick/slick.min.js"></script>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
 		<script type="text/javascript" src="js/portfolio.js"></script>
 		<!--Font Awesome CDN-->
@@ -219,24 +223,8 @@
 					</div>
 				</div>
 			</div>
-			<!--the div for Contact Form, should left when larger than sm, then center when sm
-			<div class="container text-center">
-				<h3>Email me:</h3>
-				<form>
-					<div class="form-group">
-						<label for="email">Email</label>
-						<input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
-						<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-					</div>
-						<div class="form-group">
-						<label for="message">Message</label>
-						<textarea class="form-control" id="message" rows="3"></textarea>
-						  </div>
-					<button type="submit" class="btn btn-primary">Submit</button>
-				</form>
-			</div>
-		</main>
-		-->
+
+
 			<!--Contact Form-->
 			<div class="container p-1">
 				<div class="row">
