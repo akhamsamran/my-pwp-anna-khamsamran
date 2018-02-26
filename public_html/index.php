@@ -13,7 +13,7 @@
 		<!--slick from jsDeliver.cdn-->
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
 		<!--Slick styling for Carousel-->
-		<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
+		<link rel="stylesheet" type="text/css" href="../slick-1.8.0/slick/slick.css"/>
 		<!--Slick default styling new slick-theme.css-->
 		<link rel="stylesheet" type="text/css" href="slick/slick/slick-theme.css"/>
 
