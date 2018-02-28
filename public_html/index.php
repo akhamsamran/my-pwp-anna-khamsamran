@@ -37,8 +37,8 @@
 
 
 		<!--Slick Carousel js-->
-		<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
-		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 		<script type="text/javascript" src="slick/slick.min.js"></script>
 		<!--link to initialization script for slick carousel-->
 		<script type="text/javascript" src="js/portfolio.js"></script>
@@ -96,6 +96,14 @@
 				<div>your content</div>
 				<div>your content</div>
 			</div>
+
+			<script type="text/javascript">
+				$(document).ready(function(){
+					$('.your-class').slick({
+
+				});
+				});
+			</script>
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
 			<div class="container-fluid bg-white text-dark mt-5 text-center">
@@ -235,7 +243,7 @@
 			<!--Contact Form-->
 			<div class="container p-1">
 				<div class="row">
-					<div class="col-md-6 text-center">
+					<div class="col-md-6 text-left">
 				<h3>Contact Me:</h3>
 			<form id="contact-form" action="php/mailer.php" method="post">
 				<div class="form-group">
@@ -318,8 +326,8 @@
 <a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
 						&nbsp <a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 						&nbsp <a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
-						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart a-2x"></i></a>
-						&nbsp<span><i class="fas fa-phone fa-1x "></i>(575)779-1619</span>
+						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
+						&nbsp<span><i class="fas fa-phone fa-2x "></i>(575)779-1619</span>
 					</div>
 					</div>
 				</div>
