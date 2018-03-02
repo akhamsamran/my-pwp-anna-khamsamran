@@ -90,7 +90,7 @@
 				</div>
 			</div>
 
-			<!--slick carousel-->
+			<!--slick carousel
 			<div class="your-class">
 				<div>your content</div>
 				<div>your content</div>
@@ -103,7 +103,7 @@
 
 				});
 				});
-			</script>
+			</script>-->
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
 			<div class="container-fluid bg-white text-dark mt-5 text-center">
