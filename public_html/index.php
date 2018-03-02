@@ -123,9 +123,9 @@
 								<img class="d-block w-100" src="images/webdev.svg" alt="First slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption d-none d-md-block">
-								<h5>Web Development</h5>
-								<p>Responsive design from mobile to desktop</p>
+							<div class="carousel-caption text-dark pb-1">
+								<h5></h5>
+								<h4>Websites</h4>
 								<h3 class="h3-responsive"></h3>
 								<p></p>
 							</div>
@@ -135,9 +135,9 @@
 							<div class="view hm-black-light">
 								<img class="d-block w-100" src="images/database.svg" alt="Second slide">
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Database design</h4>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -146,9 +146,9 @@
 								<img class="d-block w-100" src="images/portraits.svg" alt="Third slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Portraits/personal branding</h4>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -157,9 +157,9 @@
 								<img class="d-block w-100" src="images/pitbull.svg" alt="Fourth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Dog illustration</h4>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -168,9 +168,9 @@
 								<img class="d-block w-100" src="images/tractor-card.svg" alt="Fourth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Party invitation</h4>
 							</div>
 						</div>
 
@@ -180,9 +180,9 @@
 								<img class="d-block w-100" src="images/lizards.svg" alt="Sixth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Mandala project</h4>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -191,9 +191,9 @@
 								<img class="d-block w-100" src="images/fishbanner.svg" alt="Seventh slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Custom banners</h4>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -202,9 +202,9 @@
 								<img class="d-block w-100" src="images/bluefin.svg" alt="Eighth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption text-dark pb-1">
 								<h3 class="h3-responsive"></h3>
-								<p></p>
+								<h4>Custom graphics</h4>
 							</div>
 						</div>
 					</div>
