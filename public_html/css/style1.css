@@ -2,6 +2,10 @@ body {
 	background: url(../images/bg-scene-mobile2.svg) no-repeat center top scroll;
 	background-size: cover;
 }
+.carousel {
+	background: url(../images/bg-carousel.svg) no-repeat center top scroll;
+	background-size: cover;
+}
 
 
 /* APPLY BG IMAGE FOR WIDE SCREENS HERE */

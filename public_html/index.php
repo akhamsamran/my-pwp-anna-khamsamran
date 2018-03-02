@@ -106,15 +106,15 @@
 			</script>-->
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="container-fluid bg-white text-dark mt-5 text-center">
+			<div class="carousel container-fluid text-dark mt-5 text-center">
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
-					<!--Indicators
+					<!--Indicators-->
 					<ol class="carousel-indicators">
 						<li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
 						<li data-target="#carousel-example-2" data-slide-to="1"></li>
 						<li data-target="#carousel-example-2" data-slide-to="2"></li>
-					</ol>-->
+					</ol>
 					<!--/.Indicators-->
 					<!--Slides-->
 					<div class="carousel-inner" role="listbox">
@@ -123,7 +123,9 @@
 								<img class="d-block w-100" src="images/webdev.svg" alt="First slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption d-none d-md-block">
+								<h5>Web Development</h5>
+								<p>Responsive design from mobile to desktop</p>
 								<h3 class="h3-responsive"></h3>
 								<p></p>
 							</div>
