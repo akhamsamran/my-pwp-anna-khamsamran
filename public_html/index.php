@@ -50,19 +50,20 @@
 	<body>
 		<!--Header info - name, subtitle, logo-->
 		<header>
-			<nav class="navbar navbar-light bg-white">
+			<!--<nav class="navbar navbar-light bg-white">
 				<a class="navbar-brand" href="#">
-					<img src="images/annakhamsamran-blue-blue.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+					<img src="images/annakhamsamran-blue-blue.svg" class="align-top  text-center" alt="Anna Khamsamran logo">
 				</a>
-			</nav>
+			</nav>-->
 
 				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
 						<div class="col-12 d-inline-block align-top pb-4">
-							<!--<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>-->
+							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>
 						</div>
 					</div>
 				</div>
+
 
 		</header>
 
@@ -72,14 +73,14 @@
 
 
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
-			<div class="container text-left pt-4 mt-5 mb-5">
+			<div class="container text-left pt-4 mt-3 mb-3">
 				<div class="row">
-					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Scalable Vector Graphic Database Design" class="d-inline-block align-top" ></div>
-					<div class="col-8"></div>
+					<div class="col-md-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Scalable Vector Graphic Database Design" class="d-inline-block align-top" ></div>
+					<div class="col-md-8"></div>
 				</div>
 			</div>
 			<!--the div for Creative Philosophy, should align right-ish when larger-->
-			<div class="container text-center mb-5">
+			<div class="container text-center mb-3">
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
@@ -96,20 +97,6 @@
 				</div>
 			</div>
 
-			<!--slick carousel
-			<div class="your-class">
-				<div>your content</div>
-				<div>your content</div>
-				<div>your content</div>
-			</div>
-
-			<script type="text/javascript">
-				$(document).ready(function(){
-					$('.your-class').slick({
-
-				});
-				});
-			</script>-->
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
 			<div class="carousel container-fluid mt-5 text-center text-dark">
@@ -250,7 +237,7 @@
 				</div>
 				<!--/.Carousel Wrapper-->
 			</div>
-
+			</div>
 			<!--the div for About Me-->
 			<div class="container text-left mt-5">
 				<div class="row">
@@ -313,11 +300,9 @@
 					<label for="message">Message <span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
-
 							<span class="input-group-text">
 								<i class="fa fa-comment" aria-hidden="true"></i>
 							</span>
-
 						</div>
 						<textarea class="form-control" rows="5" id="message" name="message" placeholder="(2000 characters max)"></textarea>
 					</div>
@@ -347,17 +332,19 @@
 		</main>
 		<!--the div for Footer should align center always, stick to bottom-->
 		<footer>
-			<div class="container-fluid p-3 mt-2 bg-light text-primary rounded text-center">
+			<div class="container-fluid p-2 mt-2 bg-light text-primary rounded text-center">
 				<div class="row">
-					<div class="col-md-6 text-center">
-						<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/> 2018
+					<div class="col-md-4 text-center">
+<a href="https://github.com/akhamsamran"><i class="fab fa-github fa-1x"></i></a>
+						<a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-1x"></i></a>
+						<a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-1x"></i></a>
+						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-1x"></i></a>
+						<span><i class="fas fa-phone fa-1x "></i>(575)779-1619</span>
 					</div>
-					<div class="col-md-6 text-center">
-<a href="https://github.com/akhamsamran"><i class="fab fa-github fa-2x"></i></a>
-						&nbsp <a href="https://www.linkedin.com/in/anna-khamsamran/"><i class="fab fa-linkedin-in fa-2x"></i></a>
-						&nbsp <a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-2x"></i></a>
-						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-2x"></i></a>
-						&nbsp<span><i class="fas fa-phone fa-2x "></i>(575)779-1619</span>
+					<div class="col-md-4 text-center">
+					</div>
+					<div class="col-md-4 text-center">
+						<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/> 2018
 					</div>
 					</div>
 				</div>
