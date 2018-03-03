@@ -123,11 +123,12 @@
 								<img class="d-block w-100" src="images/webdev.svg" alt="First slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h5></h5>
-								<h4>Websites</h4>
-								<h3 class="h3-responsive"></h3>
-								<p></p>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Websites</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Website Development</h2>
+									<h5>Responsive design from mobile to desktop</h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -135,9 +136,12 @@
 							<div class="view hm-black-light">
 								<img class="d-block w-100" src="images/database.svg" alt="Second slide">
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Database design</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Database Design</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Database Design</h2>
+									<h5>MySQL and Microsoft Access</h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -146,9 +150,12 @@
 								<img class="d-block w-100" src="images/portraits.svg" alt="Third slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Portraits/personal branding</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Portraits & Personal Branding</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Portraits & Personal Branding</h2>
+									<h5>Realistic to iconic </h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -157,9 +164,12 @@
 								<img class="d-block w-100" src="images/pitbull.svg" alt="Fourth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Dog illustration</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Dog Study</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Dog Study</h2>
+									<h5>Design from wireframe to finished art</h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -168,9 +178,12 @@
 								<img class="d-block w-100" src="images/tractor-card.svg" alt="Fourth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Party invitation</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Party Invitation</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Party Invitation</h2>
+									<h5>Card made to order for an event</h5>
+								</div>
 							</div>
 						</div>
 
@@ -180,9 +193,12 @@
 								<img class="d-block w-100" src="images/lizards.svg" alt="Sixth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Mandala project</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Lizard Mandala</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Mandala Project</h2>
+									<h5>Scalable Vector Graphic lizards</h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -191,9 +207,12 @@
 								<img class="d-block w-100" src="images/fishbanner.svg" alt="Seventh slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Custom banners</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Custom Banners</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Custom Banners</h2>
+									<h5>Fish banners made for a website</h5>
+								</div>
 							</div>
 						</div>
 						<div class="carousel-item">
@@ -202,9 +221,11 @@
 								<img class="d-block w-100" src="images/bluefin.svg" alt="Eighth slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption text-dark pb-1">
-								<h3 class="h3-responsive"></h3>
-								<h4>Custom graphics</h4>
+							<div class="carousel-caption">
+								<h4 class="h4-responsive d-block d-md-none">Custom graphics</h4>
+								<div class="carousel-caption d-none d-md-block">
+									<h2>Graphics-to-order</h2>
+									<h5>Part of set of logos and artwork for a speedboat company</h5>
 							</div>
 						</div>
 					</div>
