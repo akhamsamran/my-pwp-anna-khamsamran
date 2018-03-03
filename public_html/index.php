@@ -50,11 +50,16 @@
 	<body>
 		<!--Header info - name, subtitle, logo-->
 		<header>
+			<nav class="navbar navbar-light bg-white">
+				<a class="navbar-brand" href="#">
+					<img src="images/annakhamsamran-blue-blue.svg" class="d-inline-block align-top" alt="Anna Khamsamran logo">
+				</a>
+			</nav>
 
 				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
 						<div class="col-12 d-inline-block align-top pb-4">
-							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>
+							<!--<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>-->
 						</div>
 					</div>
 				</div>
@@ -65,10 +70,11 @@
 		<main>
 
 
+
 			<!--the div for Tech capabilities, should align left-ish when larger than sm, then go to center when sm-->
 			<div class="container text-left pt-4 mt-5 mb-5">
 				<div class="row">
-					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Vector Graphic Database Design" class="d-inline-block align-top" ></div>
+					<div class="col-sm-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Scalable Vector Graphic Database Design" class="d-inline-block align-top" ></div>
 					<div class="col-8"></div>
 				</div>
 			</div>
@@ -77,7 +83,7 @@
 				<div class="row">
 					<div class="col-md-8"></div>
 					<div class="col-md-4">
-						<h5>Data~Design~Development</h5>
+						<h5>Philosophy</h5>
 						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and design.</p>
 					</div>
 				</div>
@@ -106,7 +112,8 @@
 			</script>-->
 
 			<!--the div for portfolio carousel, should align center in all sizes-->
-			<div class="carousel container-fluid text-dark mt-5 text-center">
+			<div class="carousel container-fluid mt-5 text-center text-dark">
+				<h2>Portfolio:</h2>
 				<!--Carousel Wrapper-->
 				<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 					<!--Indicators-->
@@ -123,7 +130,7 @@
 								<img class="d-block w-100" src="images/webdev.svg" alt="First slide">
 								<div class="mask"></div>
 							</div>
-							<div class="carousel-caption">
+							<div class="carousel-caption ">
 								<h4 class="h4-responsive d-block d-md-none">Websites</h4>
 								<div class="carousel-caption d-none d-md-block">
 									<h2>Website Development</h2>
