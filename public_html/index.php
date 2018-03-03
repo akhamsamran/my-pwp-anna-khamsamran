@@ -119,7 +119,7 @@
 							</div>
 							<div class="carousel-caption ">
 								<h4 class="h4-responsive d-block d-md-none">Websites</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Website Development</h2>
 									<h5>Responsive design from mobile to desktop</h5>
 								</div>
@@ -132,7 +132,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Database Design</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Database Design</h2>
 									<h5>MySQL and Microsoft Access</h5>
 								</div>
@@ -146,7 +146,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Portraits & Personal Branding</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Portraits & Personal Branding</h2>
 									<h5>Realistic to iconic </h5>
 								</div>
@@ -160,7 +160,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Dog Study</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Dog Study</h2>
 									<h5>Design from wireframe to finished art</h5>
 								</div>
@@ -174,7 +174,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Party Invitation</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Party Invitation</h2>
 									<h5>Card made to order for an event</h5>
 								</div>
@@ -189,7 +189,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Lizard Mandala</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Mandala Project</h2>
 									<h5>Scalable Vector Graphic lizards</h5>
 								</div>
@@ -203,7 +203,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Custom Banners</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Custom Banners</h2>
 									<h5>Fish banners made for a website</h5>
 								</div>
@@ -217,7 +217,7 @@
 							</div>
 							<div class="carousel-caption">
 								<h4 class="h4-responsive d-block d-md-none">Custom graphics</h4>
-								<div class="carousel-caption d-none d-md-block">
+								<div class="carousel-caption d-none d-md-block mb-5 pb-5">
 									<h2>Graphics-to-order</h2>
 									<h5>Part of set of logos and artwork for a speedboat company</h5>
 							</div>
