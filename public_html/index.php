@@ -64,7 +64,7 @@
 					<!--<div class="col-md-4"><img src="images/wordcloud.svg" alt="Tech Capablities includes HTML CSS PHP MySQL JavaScript AdobePhotoshop CorelDRAW SVG Scalable Vector Graphic Database Design" class="d-inline-block align-top" ></div>-->
 					<div class="col-md-6">
 						<ul>
-							<li>Graphic design, custom logos and artwork</li>
+							<li>Graphic design, logos, photography, artwork</li>
 							<li>Website and app development</li>
 							<li>Database design</li>
 						</ul>
@@ -78,7 +78,7 @@
 					<div class="col-md-6"></div>
 					<div class="col-md-6">
 						<h5>Philosophy</h5>
-						<p>Easy access to well organized information improves business and customer experience. My goal is to build systems and tools that remove obstacles through elegant structure and design.</p>
+						<p>Easy access to well organized information is the key to a positive user experience. My goal is to build systems and tools that remove obstacles through elegant structure and sound design.</p>
 					</div>
 				</div>
 			</div>
@@ -232,19 +232,19 @@
 			</div>
 			</div>
 			<!--the div for About Me-->
-			<div class="container text-left mt-5">
+			<div class="container text-left mt-5 lead">
 				<div class="row">
 					<h3>About me:</h3>
 				</div>
 				<div class="row">
 					<div class="col-sm-4">
-						<p>At eighteen, I set off towards Nepal with the intention of volunteering in a women’s shelter for a few months before going to college. On the way there, I stopped in Thailand, went to an island, got caught in a typhoon, and missed my flight onwards. I became a scuba diving instructor and ended up living in Thailand for the next eighteen years.</p>
+						<p>At eighteen, I set off toward Nepal with the intention of volunteering in a women’s shelter for a few months before going to college. On the way there, I stopped in Thailand, went to an island, got caught in a typhoon, and missed my flight onwards. I became a scuba diving instructor and ended up living in Thailand for the next eighteen years.</p>
 					</div>
 					<div class="col-sm-4">
-						<p>Upon my return to the US, I worked for a small non-profit, degree-granting college supporting the apprenticeship model of midwifery education. I have continuously sought to improve my skills and capabilities.  I designed set up systems and tools that greatly improved the business, and was able to rise to the position of Chief Operations Officer </p>
+						<p>Upon my return to the US, I worked for a small non-profit, degree-granting college supporting the apprenticeship model of midwifery education. I have continuously sought to improve my skills and capabilities.  I designed set up systems and tools that greatly improved the business capacity, and rose to the position of Chief Operations Officer </p>
 					</div>
 					<div class="col-sm-4">
-						<p>Working in digital development provides me with the exciting opportunity to be creative and pursue my passion.  I find beauty and satisfaction in all elements that combine to produce a finished project; from creating original graphic art, to organizing a database, and finally tying together a cohesive, elegantly structured app or website. The adventure has just begun! </p>
+						<p>Working in digital development provides me with the exciting opportunity to be creative and pursue my passion.  I find beauty and satisfaction in all elements that combine to produce a finished project; creating original graphic art, organizing a database, and tying together a cohesive, elegantly structured app or website. The adventure has just begun! </p>
 					</div>
 				</div>
 			</div>
