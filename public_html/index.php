@@ -12,10 +12,7 @@
 		<link rel="stylesheet" href="css/style1.css"/>
 		<!--slick from jsDeliver.cdn-->
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
-		<!--Slick styling for Carousel-->
-		<link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
-		<!--Slick default styling new slick-theme.css-->
-		<link rel="stylesheet" type="text/css" href="slick/slick/slick-theme.css"/>
+
 
 		<!--Optional Javascript links-->
 		<!--link to Bootstrap javascript dependencies-->
@@ -35,13 +32,6 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
-
-		<!--Slick Carousel js-->
-		<script type="text/javascript" src="http://cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script type="text/javascript" src="slick/slick.min.js"></script>
-		<!--link to initialization script for slick carousel-->
-		<script type="text/javascript" src="js/portfolio.js"></script>
 		<!--Font Awesome CDN-->
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 		<title>Anna Khamsamran</title>
@@ -50,11 +40,7 @@
 	<body>
 		<!--Header info - name, subtitle, logo-->
 		<header>
-			<!--<nav class="navbar navbar-light bg-white">
-				<a class="navbar-brand" href="#">
-					<img src="images/annakhamsamran-blue-blue.svg" class="align-top  text-center" alt="Anna Khamsamran logo">
-				</a>
-			</nav>-->
+
 
 				<div class="container pt-4 pb-5 text-center">
 					<div class="row">
