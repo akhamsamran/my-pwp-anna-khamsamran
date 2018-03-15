@@ -35,14 +35,21 @@
 		<!--Font Awesome CDN-->
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 		<title>Anna Khamsamran</title>
-
+		<!--favicon-->
+		<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+		<link rel="manifest" href="images/site.webmanifest">
+		<link rel="mask-icon" href="images/safari-pinned-tab.svg" color="#0a6cd9">
+		<meta name="msapplication-TileColor" content="#2d89ef">
+		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
 		<!--Header info - name, subtitle, logo-->
 		<header>
 
 
-				<div class="container pt-4 pb-5 text-center">
+				<div class="container pt-3 pb-5 text-center">
 					<div class="row">
 						<div class="col-12 d-inline-block align-top pb-4">
 							<img src="images/annakhamsamran-blue-blue.svg" alt="Anna Khamsamran logo"/>
