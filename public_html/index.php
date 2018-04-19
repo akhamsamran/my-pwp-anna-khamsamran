@@ -340,6 +340,7 @@
 						<a href="https://twitter.com/AKhamsamran"><i class="fab fa-twitter fa-1x"></i></a>
 						<a href="https://www.cafepress.com/fishindeep"><i class="fas fa-shopping-cart fa-1x"></i></a>
 						<span><i class="fas fa-phone fa-1x "></i>(575)779-1619</span>
+						<span><a href="docs/Khamsamran_Anna_Resume.pdf"><i class="fas fa-file-pdf"></i> Resume</a></span>
 					</div>
 					<div class="col-md-4 text-center">
 					</div>
